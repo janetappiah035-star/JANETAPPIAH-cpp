@@ -1,0 +1,2 @@
+# JANETAPPIAH-cpp
+c++ assignment
